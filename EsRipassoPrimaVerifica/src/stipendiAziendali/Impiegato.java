@@ -126,7 +126,7 @@ public class Impiegato {
 		System.out.println("--------------------------");
 	}
 	
-	@Override
+
 	public String toString() {
 		return "Impiegato: cognome= " + cognome + ", nome= " + nome + ", ore= " + ore + ", straordinarie= " + straordinarie + ", festivi= " + festivi;
 	}
